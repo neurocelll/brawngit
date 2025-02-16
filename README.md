@@ -27,5 +27,4 @@ Brawn Flash 1o is the next step in the evolution of AI technology. By utilizing 
 
 ---
 
-### Get Started:
-Open the github page.
+Go ahead and try Brawn for yourself at [BrawnANS Cloudflare Page](https://brawnans.pages.dev/) or [BrawnANS GitHub Deployment](https://neurocelll.github.io/brawnans/). Either one is exactly the same, just a different deployment.
